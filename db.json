@@ -132,7 +132,7 @@
 }
  
 },
-"dynamic":
+{"dynamic":
 {
   "response": "success",
   "servicecode": "134",
@@ -189,4 +189,5 @@
     }
   },
   "message": "Competitor Sales."
+}
 }
