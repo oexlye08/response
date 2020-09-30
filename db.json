@@ -66,5 +66,7 @@
         ]
     },
     "status": "success"
-}
+},
+ "dynamic": {
+ "status" : "jajal"}
 }
