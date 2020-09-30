@@ -1,134 +1,70 @@
 {"posts":
   {
-  "data": {
-    "2020-09": [
-      {
-        "id": 4249,
-        "worker_id": 22,
-        "instance_id": "233",
-        "regency_id": 3318,
-        "tanggal": "2020-09-28",
-        "contacttype_id": 3,
-        "product_id": 1,
-        "pelapor": "bidan pati 1",
-        "hasil_komunikasi": "instal ulng simpustu,migrasi data,setting path",
-        "keterangan_remote": null,
-        "status": {
-          "id": 2,
-          "nama": "Sudah"
-        },
-        "worker": {
-          "id": 22,
-          "nama": "Triyono",
-          "telepon1": "085878744485",
-          "telepon2": "0896 87677019",
-          "no_rekening": null,
-          "tgl_kerja": "0000-11-30",
-          "nik": "3310091710900003",
-          "npwp": "76.058.628.9-525.000",
-          "bpjs_kesehatan": null,
-          "bpjs_ketenagakerjaan": null,
-          "driver": null
-        },
-        "instance": {
-          "id": 233,
-          "kode": "P331814",
-          "nama": "Pati 1",
-          "instancetype_id": "02",
-          "province_id": "33",
-          "regency_id": "3318",
-          "district_id": null,
-          "catatan": "",
-          "created_at": "-000001-11-30T00:00:00.000000Z",
-          "updated_at": "-000001-11-30T00:00:00.000000Z",
-          "province": {
-            "id": 33,
-            "name": "JAWA TENGAH"
-          },
-          "regencie": {
-            "id": 3318,
-            "province_id": "33",
-            "name": "KABUPATEN PATI"
-          },
-          "district": null,
-          "instancetype": null
-        },
-        "regencie": {
-          "id": 3318,
-          "province_id": "33",
-          "name": "KABUPATEN PATI"
-        },
-        "product": {
-          "id": 1,
-          "nama": "Simpus Single"
-        }
-      }
-    ],
-    "2020-08": [
-      {
-        "id": 4109,
-        "worker_id": 10,
-        "instance_id": "49",
-        "regency_id": 3310,
-        "tanggal": "2020-08-31",
-        "contacttype_id": 3,
-        "product_id": 6,
-        "pelapor": "bu bidan",
-        "hasil_komunikasi": "permintaan pindah data aplikasi simpustu bridging",
-        "keterangan_remote": null,
-        "status": {
-          "id": 2,
-          "nama": "Sudah"
-        },
-        "worker": {
-          "id": 10,
-          "nama": "Hirlan Tusep Partana, S.Pd",
-          "telepon1": "081219659799",
-          "telepon2": null,
-          "no_rekening": null,
-          "tgl_kerja": "0000-00-00",
-          "nik": "3310090109910001",
-          "npwp": null,
-          "bpjs_kesehatan": null,
-          "bpjs_ketenagakerjaan": null,
-          "driver": null
-        },
-        "instance": {
-          "id": 49,
-          "kode": "P331009",
-          "nama": "Jogonalan 2",
-          "instancetype_id": "02",
-          "province_id": "33",
-          "regency_id": "3310",
-          "district_id": null,
-          "catatan": "",
-          "created_at": "-000001-11-30T00:00:00.000000Z",
-          "updated_at": "-000001-11-30T00:00:00.000000Z",
-          "province": {
-            "id": 33,
-            "name": "JAWA TENGAH"
-          },
-          "regencie": {
-            "id": 3310,
-            "province_id": "33",
-            "name": "KABUPATEN KLATEN"
-          },
-          "district": null,
-          "instancetype": null
-        },
-        "regencie": {
-          "id": 3310,
-          "province_id": "33",
-          "name": "KABUPATEN KLATEN"
-        },
-        "product": {
-          "id": 6,
-          "nama": "Simpustu Bridging"
-        }
-      }
-    ]
-  },
-  "status": "success"
+    "data": {
+        "2020-09": [
+            {
+                "id": 4249,
+                "worker_id": 22,
+                "instance_id": "233",
+                "regency_id": 3318,
+                "tanggal": "2020-09-28",
+                "contacttype_id": 3,
+                "product_id": 1,
+                "pelapor": "bidan pati 1",
+                "hasil_komunikasi": "instal ulng simpustu,migrasi data,setting path",
+                "keterangan_remote": null,
+                "status": {
+                    "id": 2,
+                    "nama": "Sudah"
+                },
+                "worker": {
+                    "id": 22,
+                    "nama": "Triyono",
+                    "telepon1": "085878744485",
+                    "telepon2": "0896 87677019",
+                    "no_rekening": null,
+                    "tgl_kerja": "0000-11-30",
+                    "nik": "3310091710900003",
+                    "npwp": "76.058.628.9-525.000",
+                    "bpjs_kesehatan": null,
+                    "bpjs_ketenagakerjaan": null,
+                    "driver": null
+                },
+                "instance": {
+                    "id": 233,
+                    "kode": "P331814",
+                    "nama": "Pati 1",
+                    "instancetype_id": "02",
+                    "province_id": "33",
+                    "regency_id": "3318",
+                    "district_id": null,
+                    "catatan": "",
+                    "created_at": "-000001-11-30T00:00:00.000000Z",
+                    "updated_at": "-000001-11-30T00:00:00.000000Z",
+                    "province": {
+                        "id": 33,
+                        "name": "JAWA TENGAH"
+                    },
+                    "regencie": {
+                        "id": 3318,
+                        "province_id": "33",
+                        "name": "KABUPATEN PATI"
+                    },
+                    "district": null,
+                    "instancetype": null
+                },
+                "regencie": {
+                    "id": 3318,
+                    "province_id": "33",
+                    "name": "KABUPATEN PATI"
+                },
+                "product": {
+                    "id": 1,
+                    "nama": "Simpus Single"
+                }
+            }
+        ]
+    },
+    "status": "success"
 }
- 
 }
